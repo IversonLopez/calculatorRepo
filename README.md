@@ -1,6 +1,6 @@
 # Calculator Project
 
-![Style Check](https://github.com/IversonLopez/calculatorRepo/.github/workflows/.yaml/badge.svg)
+![Style Check](https://github.com/Iversonlopez/calculatorRepo/actions/workflows/.github/workflows/.yaml/badge.svg)
 
 This is a simple calculator project
 
